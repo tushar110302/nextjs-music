@@ -22,7 +22,7 @@ function HeroSection() {
             <div className="mt-8">
                 <Link href={"/courses"}>
                     <Button
-                    borderRadius="1.75rem"
+                    borderRadius="1rem"
                     className="bg-white  dark:bg-black text-black dark:text-white border-neutral-200 dark:border-slate-800"
                     >
                     Explore courses
