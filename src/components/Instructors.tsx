@@ -1,4 +1,4 @@
-"use client"
+// "use client"
 import React from 'react'
 import { WavyBackground } from './ui/wavy-background';
 import { AnimatedTooltip } from './ui/animated-tooltip';
